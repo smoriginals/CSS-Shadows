@@ -1,0 +1,25 @@
+﻿*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body,html{
+    height:100vh;
+    width:100vw;
+}
+.container {
+    height: 100%;
+    width: 100%;
+    background-color:crimson;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+h1{
+    font-size:10rem;
+    font-weight:bold;
+    font-family:Verdana;
+    color:yellow;
+    text-shadow:15px -5px 5px black;
+}
