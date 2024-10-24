@@ -16,10 +16,17 @@ body,html{
     justify-content:center;
     align-items:center;
 }
-h1{
-    font-size:10rem;
-    font-weight:bold;
-    font-family:Verdana;
-    color:yellow;
-    text-shadow:15px -5px 5px black;
+h1 {
+    font-size: 12rem;
+    font-weight: bold;
+    font-family: Verdana;
+    color: yellow;
+    text-shadow: 20px -10px 5px black;
+    transition: text-shadow 0.2s ease-in-out;
+}
+
+@media(max-width:1280px){
+    h1{
+        font-size:6rem;
+    }
 }
