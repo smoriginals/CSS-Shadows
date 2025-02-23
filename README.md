@@ -1,1 +1,1 @@
-[OPEN IN BROWSER](https://smos-github.github.io/CSS-Shadows/)
+[OPEN IN BROWSER](https://smoriginals.github.io/CSS-Shadows/)
